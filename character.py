@@ -8,7 +8,7 @@ char3 = str((input("Name third character ")))
 health3 = int (input("whats their health? "))
 level3 = int(input("whats their level "))
 
-print ("these are your characters")
+print ("these are the character you input characters")
 
 print (char1)
 print (health1)
